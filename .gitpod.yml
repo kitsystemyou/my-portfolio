@@ -1,0 +1,6 @@
+image:
+  file: .gitpod.Dockerfile
+tasks:
+  - command: docsify serve docs
+ports:
+- port: 3000
