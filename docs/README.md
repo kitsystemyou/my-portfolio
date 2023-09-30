@@ -11,10 +11,10 @@
 - Leader: 2年
 - Other: 要件定義, 設計, 実装, 検証, リリース
 
-# Skills
-- Golang(Echo,Gorm)
+# Programming Skills
+- Golang(Echo, Gorm)
 - Python(Flask, FastAPI)
-- JavaScript(React)
+- JavaScript(React, Next)
 - AWS(EKS, ECR, CodePipeline, CodeBuild, SQS, SES, OpenSearch)
 - GCP(CloudRun, CloudFunction, FireStore, CloudStorage, ArtifactResistry, VisionAPI)
 
@@ -29,14 +29,15 @@
 
 # Other
 ## Like
+- IRIAM
 - カラオケ
 - プログラミング
 - ゲーム(スマブラ/ゼルダ/スプラ)
-- 舞台、ミュージカル
 - TRPG
+- 舞台、ミュージカル
+
 
 ## Dislike
-- Clean Architecture(※使われ方による)
-- 過度なマイクロサービス
-- バッファの無いスケジュール
-- 極端に効率の悪いアナログ作業
+- 理由の良く分からないルールや慣習
+- 冬
+- らっきょうの漬物
