@@ -2,14 +2,12 @@
 
 ## Profile
 - Name: 川端大樹
-- Age: 30
-- Corporation: 株式会社オプティム
+- Age: 30 (2020新卒, 社会人4年目)
 
 # Experience
-- Backend: 3年5か月
-- Frontend: 2か月
-- Leader: 2年
-- Other: 要件定義, 設計, 実装, 検証, リリース
+- サーバーサイド: 約3年半
+- フロントエンド: 2か月
+- 担当工程: 要件定義, 設計, 実装, 検証, リリース
 
 # Programming Skills
 - Golang(Echo, Gorm)
@@ -29,6 +27,7 @@
 
 # Other
 ## Like
+- 高度な技術を、より多くの人が使えるようにすること
 - IRIAM
 - カラオケ
 - プログラミング
@@ -39,5 +38,6 @@
 
 ## Dislike
 - 理由の良く分からないルールや慣習
+- 不毛な覇権争い
 - 冬
 - らっきょうの漬物
